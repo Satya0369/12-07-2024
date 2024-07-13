@@ -26,7 +26,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
     margin-top: 50px;
     display:grid;
     grid-template-columns: 22%  22%  22%  22%;
-   
+    justify-content: center;
     gap:25px;
 }
 h3{
