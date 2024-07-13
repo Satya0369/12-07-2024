@@ -96,7 +96,7 @@ hr{
         margin-top: 50px;
         display:grid;
         grid-template-columns:90%;
-       
+        justify-content: center;
         gap:25px;
     }
     #foot{
@@ -110,6 +110,9 @@ hr{
     }
     p{
         font-size: 30px;
+    }
+    .item img{
+        width:100%;
     }
     
     
